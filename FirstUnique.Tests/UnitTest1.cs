@@ -5,6 +5,7 @@ namespace TestProject1;
 public class UniqueFinderTests
 {
     [Theory]
+    
     [InlineData("apple", 'a')]
     [InlineData("banana", 'b')]
     [InlineData("racecar", 'e')]
