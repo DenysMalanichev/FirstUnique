@@ -1,0 +1,12 @@
+D:\prog\FirstUnique\FirstUnique\bin\Debug\net7.0\FirstUnique.deps.json
+D:\prog\FirstUnique\FirstUnique\bin\Debug\net7.0\FirstUnique.dll
+D:\prog\FirstUnique\FirstUnique\bin\Debug\net7.0\FirstUnique.pdb
+D:\prog\FirstUnique\FirstUnique\obj\Debug\net7.0\FirstUnique.csproj.AssemblyReference.cache
+D:\prog\FirstUnique\FirstUnique\obj\Debug\net7.0\FirstUnique.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\FirstUnique\FirstUnique\obj\Debug\net7.0\FirstUnique.AssemblyInfoInputs.cache
+D:\prog\FirstUnique\FirstUnique\obj\Debug\net7.0\FirstUnique.AssemblyInfo.cs
+D:\prog\FirstUnique\FirstUnique\obj\Debug\net7.0\FirstUnique.csproj.CoreCompileInputs.cache
+D:\prog\FirstUnique\FirstUnique\obj\Debug\net7.0\FirstUnique.dll
+D:\prog\FirstUnique\FirstUnique\obj\Debug\net7.0\refint\FirstUnique.dll
+D:\prog\FirstUnique\FirstUnique\obj\Debug\net7.0\FirstUnique.pdb
+D:\prog\FirstUnique\FirstUnique\obj\Debug\net7.0\ref\FirstUnique.dll

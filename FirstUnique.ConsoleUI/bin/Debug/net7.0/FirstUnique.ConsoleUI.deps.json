@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FirstUnique.ConsoleUI/1.0.0": {
+        "dependencies": {
+          "FirstUnique": "1.0.0"
+        },
+        "runtime": {
+          "FirstUnique.ConsoleUI.dll": {}
+        }
+      },
+      "FirstUnique/1.0.0": {
+        "runtime": {
+          "FirstUnique.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstUnique.ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FirstUnique/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
